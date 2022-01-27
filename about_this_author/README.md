@@ -17,31 +17,30 @@
 
 ### With encouragement from co-developer teams, peer pressure, etc, self-taught web coder, web development, front-end development, full-stack development, additionally minor in computational practices at California College of the Arts (CCA), while an Interaction Design major, JavaScript, HTML, CSS, Jquery, wordpress, bootstrap. Favorite Front-end JavaScript Framework = React.JS. 
 
-### Currently living in San Jose, CA with four cats, three fish and fiance.
+### Currently living in San Jose
 
-### His portfolio is viewable here: www.jaeminkim.com
+### His portfolio is viewable here: www.hillodesign.com
 
 
-
-www.uxdesignsumo.com, 
+www.hillodesign.com, 
 
 Sass product suite for UX Designers. 
 
 ### Contact Info
-Email: jaeminkim.com@gmail.com
+Email: jaemin@hillodesign.com
 
 Phone: (510)-513-7376
 
 ### UI/UX Designer Portfolio
-Portfolio: www.jaeminkim.com
+Portfolio: www.hillodesign.com
 
 ### Social Media
-Linkedin: https://www.linkedin.com/in/jaeminkim-com
+Linkedin: https://www.linkedin.com/in/hillodesign
 
-Stackoverflow: https://stackoverflow.com/story/jaemnkm
+Stackoverflow: https://stackoverflow.com/story/hillodesign
 
-Dribbble: https://dribbble.com/jaeminkim-com
+Dribbble: https://dribbble.com/hillodesign
 
 Behance: https://www.behance.net/jaeminkim2
 
-Github: https://github.com/jaeminkim-com
+Github: https://github.com/hillodesign
